@@ -1,0 +1,45 @@
+*{
+    margin-top: 15px;
+}
+
+body{
+    background-color: lightblue;
+}
+
+input{
+    display: block;
+}
+
+.input-1{
+    width: 250px;
+    height: 35px;
+    border: 2px solid black;
+}
+
+.checkbox,
+.radio{
+    display: inline;
+}
+
+.checkbox-1{
+    display: inline-block;
+}
+
+.first-h2{
+    color: red;
+}
+
+.second-h2{
+    color: rgb(255, 128, 0);
+}
+
+a{
+    font-size: 22px;
+}
+
+.send{
+    width: 90px;
+    height: 40px;
+    color: white;
+    background-color: blue;
+}
